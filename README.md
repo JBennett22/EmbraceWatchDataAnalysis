@@ -1,6 +1,6 @@
 # EmbraceWatchDataAnalysis
 
-Group Project that involves creating software for analyzing EmbraceWatch data. The Embrace Watch Data Analyzer is an application intended to take data from the Embrace Watch in the format of a csv to then process, graph, and analyze.
+Group Project that involves creating software for analyzing EmbraceWatch data. The Embrace Watch Data Analyzer is an application intended to take data from the Embrace Watch in the format of a csv to then process, graph, and analyze. View the manual file for more information. 
 
 
 ## Setup
